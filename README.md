@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @arifnayan2861
-- 👀 I’m interested in Music & Programming
-- 🌱 I’m currently learning Back-end development
+- 👋 Hi, I’m @arifnayan2861.
+- 👀 I’m interested in Web Development & Programming in general.
+- 🌱 I’m currently learning full-stack development using MERN stack & Next.js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
