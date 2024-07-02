@@ -18,6 +18,16 @@
 </p>
 </p>
 
+## 📈Progress
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arifnayan2861&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=1000)](https://git.io/streak-stats)
+
+## 📝Profile Summary
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arifnayan2861&theme=blueberry) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hossain-Ahamed&theme=blueberry&utcOffset=8)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arifnayan2861&theme=blueberry)
+
 <!---
 arifnayan2861/arifnayan2861 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
